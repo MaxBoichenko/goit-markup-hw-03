@@ -205,7 +205,6 @@ a.current {
 /* Секция наши преимущества*/
 
 .benefits {
-  background-color: var(--white-bg);
   padding: 94px 0 0;
 }
 .hidden {
@@ -230,10 +229,6 @@ a.current {
   text-align: left;
 
   margin-bottom: 10px;
-}
-
-.features {
-  background-color: var(--white-bg);
 }
 
 .features-title {
@@ -323,9 +318,6 @@ a.current {
 }
 /* Страница портфолио */
 
-.portfolio {
-  background-color: var(--white-bg);
-}
 .portfolio-button {
   padding: 6px 22px;
   border-radius: 4px;
